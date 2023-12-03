@@ -1,4 +1,25 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+
+<h3 align="center">A passionate software developer</h3>
+
+<div align="center">
+ 
+ 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+
+ 💬 experience with C# , SQL Server , and ASP .Net Core, or anything related to web development.
+
+ ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start with a cup of coffee.
+ 
+ </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,cs,html,css,vscode,github,dotnet,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,javascript,typescript,reactivex,mongodb,c,nextjs,sqlite,azure,aws" /><br>
+</div>
 
 <!--
 **Mo-Helmy/Mo-Helmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
